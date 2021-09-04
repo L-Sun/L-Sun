@@ -1,3 +1,31 @@
+<style type="text/css">
+    .clear-float {
+        clear: both;
+    }
+    .github-state {
+        max-width: 400px;
+        float: right;
+    }
+    .lang-box {
+        display: flex;
+        justify-content: space-between;
+        margin: 0;
+    }
+    .shields-container {
+        margin: 0;
+    }
+    .shields-container img {
+        height: 32px;
+    }
+    .lang-box img {
+        margin-right: 10px
+    }
+    .visitor-badge {
+        display: flex;
+        justify-content: center;
+    }
+</style>
+
 # Hi, geeks! 👋
 <hr>
 
@@ -47,30 +75,3 @@ I'm [L-Sun](https://github.com/L-Sun), a versatilist, like to 💻**code**, make
     <img src="https://visitor-badge.glitch.me/badge?page_id=L-Sun&left_color=green&right_color=red" />
 </div> -->
 
-<style type="text/css">
-    .clear-float {
-        clear: both;
-    }
-    .github-state {
-        max-width: 400px;
-        float: right;
-    }
-    .lang-box {
-        display: flex;
-        justify-content: space-between;
-        margin: 0;
-    }
-    .shields-container {
-        margin: 0;
-    }
-    .shields-container img {
-        height: 32px;
-    }
-    .lang-box img {
-        margin-right: 10px
-    }
-    .visitor-badge {
-        display: flex;
-        justify-content: center;
-    }
-</style>
