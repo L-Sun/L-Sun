@@ -3,7 +3,9 @@
 I'm [L-Sun](https://github.com/L-Sun), a versatilist, like to 💻**code**, make 🛴**interesting toy**, build a 🎨**interactive website** and write some 📃**tech blogs**.
 
 ## 🧐About
-<img style="max-width: 400px; float: right;" src="https://github-readme-stats.vercel.app/api?username=L-Sun&count_private=true&show_icons=true&theme=github_dark"/>
+<div style="max-width: 400px; float: right;">
+    <img src="https://github-readme-stats.vercel.app/api?username=L-Sun&count_private=true&show_icons=true&theme=github_dark"/>
+</div>
 
 - 👩‍💻 A full stack developer.
 - 📚 Graduated from Lanzhou University, studying for Computer Science master's degree at Shenzhen Universit. 
