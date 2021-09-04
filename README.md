@@ -2,7 +2,7 @@
 
 I'm [L-Sun](https://github.com/L-Sun), a versatilist, like to 💻**code**, make 🛴**interesting toy**, build a 🎨**interactive website** and write some 📃**tech blogs**.
 
-## 🧐About
+## 🧐 About
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=L-Sun&count_private=true&show_icons=true&theme=github_dark"/>
 
@@ -15,7 +15,11 @@ I'm [L-Sun](https://github.com/L-Sun), a versatilist, like to 💻**code**, make
 
 <div style="clear: both;" />
 
-## My Favorite Tools, Language, Libraries.
+<h2>
+    <img valign="middle" src="./assets/nyan-cat-rainbow.gif" width="32"/>
+    My Favorite Tools, Language, Libraries.
+</h2>
+
 <figure>
     <img height=32 src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square">
     <img height=32 src="https://img.shields.io/badge/-CMake-064F8C?logo=CMake&logoColor=white&style=flat-square">
@@ -36,15 +40,16 @@ I'm [L-Sun](https://github.com/L-Sun), a versatilist, like to 💻**code**, make
 
 <figure style="display: flex; justify-content: space-between; margin: 0;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Sun&theme=github_dark&layout=compact" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@L_Sun&langs_count=6&custom_title=Usage over the Last 7 Days&theme=github_dark&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@L_Sun&langs_count=6&custom_title=Usage%20over%20the%20Last%207%20Days&theme=github_dark&layout=compact&cache_seconds=1800" />
 </figure>
 
 <hr/> 
+
 
 <p align="center">
     <cite>日々私たちが過ごしている日常は、実は奇跡の連続なのかもしれない。</cite>
 </p>
 <p align="center">
-    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=L-Sun&left_color=green&right_color=red" />
+    <!-- <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=L-Sun&left_color=green&right_color=red" /> -->
 </p>
 
