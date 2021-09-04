@@ -41,7 +41,10 @@ I'm [L-Sun](https://github.com/L-Sun), a versatilist, like to 💻**code**, make
 
 <hr/> 
 
-<div style="display: flex; justify-content: center;">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=L-Sun&left_color=green&right_color=red" />
-</div>
+<p align="center">
+<cite>日々私たちが過ごしている日常は、実は奇跡の連続なのかもしれない。</cite>
+</p>
+<p align="center">
+    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=L-Sun&left_color=green&right_color=red" />
+</p>
 
