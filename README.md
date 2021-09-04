@@ -4,9 +4,7 @@ I'm [L-Sun](https://github.com/L-Sun), a versatilist, like to 💻**code**, make
 
 ## 🧐About
 
-<div style="max-width: 400px; float: right;">
-    <img src="https://github-readme-stats.vercel.app/api?username=L-Sun&count_private=true&show_icons=true&theme=github_dark"/>
-</div>
+<img style="max-width: 400px" align="right" src="https://github-readme-stats.vercel.app/api?username=L-Sun&count_private=true&show_icons=true&theme=github_dark"/>
 
 - 👩‍💻 A full stack developer.
 - 📚 Graduated from Lanzhou University, studying for Computer Science master's degree at Shenzhen Universit. 
