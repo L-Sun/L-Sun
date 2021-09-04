@@ -1,23 +1,3 @@
 ### Hi there 👋
 
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-308190%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C++                      23 mins             ███████░░░░░░░░░░░░░░░░░░   30.93% 
-JSON                     21 mins             ███████░░░░░░░░░░░░░░░░░░   28.83% 
-CMake                    14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.74% 
-Protocol Buffer          7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.53% 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.05%
-
-🔥 Editors: 
-VS Code                  1 hr 15 mins        █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 04/09/2021
-<!--END_SECTION:waka-->
+![Metrics](https://metrics.lecoq.io/L-Sun?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&introduction=1&wakatime=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&wakatime.days=7&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.limit=5&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current&config.timezone=Asia%2FShanghai)
