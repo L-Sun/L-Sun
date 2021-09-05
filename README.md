@@ -33,6 +33,7 @@ I'm [L-Sun](https://github.com/L-Sun), a versatilist, like to 💻**code**, make
     <img height=32 src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square">
     <img height=32 src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat-square">
     <img height=32 src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat-square">
+    <img height=32 src="https://img.shields.io/badge/-LaTex-008080?logo=LaTex&logoColor=white&style=flat-square">
 </figure>
 
 
