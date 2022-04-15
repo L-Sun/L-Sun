@@ -39,9 +39,10 @@ I'm [L-Sun](https://github.com/L-Sun), a versatilist, like to 💻**code**, make
 
 ## Hello world!
 
-<img style="float: left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Sun&theme=github_dark&layout=compact" />
-<img style="float: right"src="https://github-readme-stats.vercel.app/api/wakatime?username=@L_Sun&langs_count=6&custom_title=Usage%20over%20the%20Last%207%20Days&theme=github_dark&layout=compact&cache_seconds=1800" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Sun&theme=github_dark&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@L_Sun&langs_count=6&custom_title=Usage%20over%20the%20Last%207%20Days&theme=github_dark&layout=compact&cache_seconds=1800" />
 
+<br clear="both"/>
 <hr/>
 
 <p align="center">
