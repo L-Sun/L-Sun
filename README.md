@@ -39,13 +39,10 @@ I'm [L-Sun](https://github.com/L-Sun), a versatilist, like to 💻**code**, make
 
 ## Hello world!
 
-<figure style="display: flex; justify-content: space-between; margin: 0;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Sun&theme=github_dark&layout=compact" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@L_Sun&langs_count=6&custom_title=Usage%20over%20the%20Last%207%20Days&theme=github_dark&layout=compact&cache_seconds=1800" />
-</figure>
+<img style="float: left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Sun&theme=github_dark&layout=compact" />
+<img style="float: right"src="https://github-readme-stats.vercel.app/api/wakatime?username=@L_Sun&langs_count=6&custom_title=Usage%20over%20the%20Last%207%20Days&theme=github_dark&layout=compact&cache_seconds=1800" />
 
-<hr/> 
-
+<hr/>
 
 <p align="center">
     <cite>日々私たちが過ごしている日常は、実は奇跡の連続なのかもしれない。</cite>
