@@ -7,7 +7,7 @@ I'm [L-Sun](https://github.com/L-Sun), a versatilist, like to 💻**code**, make
 <img width="400" align="right" src="https://github-readme-stats.vercel.app/api?username=L-Sun&count_private=true&show_icons=true&theme=github_dark"/>
 
 - 👩‍💻 A full stack developer.
-- 📚 Graduated from Lanzhou University, studying for Computer Science master's degree at Shenzhen Universit. 
+- 📚 Graduated from Lanzhou University, studying for Computer Science master's degree at Shenzhen University. 
 - ❤️ Love type soundness code, such as C++, TypeScript.
 - 🤗 Embrace the spirit of open source.
 - 🌱 Currently learning Computer Graphics, Distributed Storage.
