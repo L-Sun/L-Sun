@@ -28,9 +28,7 @@ I'm [L-Sun](https://github.com/L-Sun), a versatilist, like to 💻**code**, make
     <img height=32 src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" />
     <img height=32 src="https://img.shields.io/badge/-TypeScript-2f74c0?logo=TypeScript&logoColor=white&style=flat-square">
     <img height=32 src="https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white&style=flat-square">
-    <img height=32 src="https://img.shields.io/badge/-NestJS-e0234e?logo=NestJS&logoColor=white&style=flat-square">
     <img height=32 src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square">
-    <img height=32 src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat-square">
     <img height=32 src="https://img.shields.io/badge/-LaTeX-008080?logo=LaTex&logoColor=white&style=flat-square">
 </figure>
 
