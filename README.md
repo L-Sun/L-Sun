@@ -7,11 +7,10 @@ I'm [L-Sun](https://github.com/L-Sun), a versatilist, like to 💻**code**, make
 <img width="400" align="right" src="https://github-readme-stats.vercel.app/api?username=L-Sun&count_private=true&show_icons=true&theme=github_dark"/>
 
 - 👩‍💻 A full stack developer.
-- 📚 Graduated from Lanzhou University, studying for Computer Science master's degree at Shenzhen University. 
-- ❤️ Love type soundness code, such as C++, TypeScript.
+- 📚 Graduated from Lanzhou University and Shenzhen University with a master's degree in Computer Graphics.
+- ❤️ Love type soundness code.
 - 🤗 Embrace the spirit of open source.
-- 🌱 Currently learning Computer Graphics.
-- 🆙 With 1 years' development working experience.
+- 🆙 With 2 years' development working experience.
 
 <div style="clear: both;" />
 
@@ -22,16 +21,11 @@ I'm [L-Sun](https://github.com/L-Sun), a versatilist, like to 💻**code**, make
 
 <figure>
     <img height=32 src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square">
-    <img height=32 src="https://img.shields.io/badge/-CMake-064F8C?logo=CMake&logoColor=white&style=flat-square">
-    <img height=32 src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat-square">
-    <img height=32 src="https://img.shields.io/badge/-VS Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat-square">
     <img height=32 src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" />
     <img height=32 src="https://img.shields.io/badge/-TypeScript-2f74c0?logo=TypeScript&logoColor=white&style=flat-square">
-    <img height=32 src="https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white&style=flat-square">
     <img height=32 src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square">
     <img height=32 src="https://img.shields.io/badge/-LaTeX-008080?logo=LaTex&logoColor=white&style=flat-square">
 </figure>
-
 
 ## Hello world!
 
