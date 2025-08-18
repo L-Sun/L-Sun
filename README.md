@@ -38,5 +38,8 @@ I'm [L-Sun](https://github.com/L-Sun), a versatilist, like to 💻**code**, make
 <p align="center">
     <cite>日々私たちが過ごしている日常は、実は奇跡の連続なのかもしれない。</cite>
 </p>
-<img align="center" src="https://komarev.com/ghpvc/?username=L-Sun" />
+<div style="display: flex;">
+    <img align="center" src="https://komarev.com/ghpvc/?username=L-Sun" />
+</div>
+
 
