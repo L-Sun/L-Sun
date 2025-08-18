@@ -39,6 +39,6 @@ I'm [L-Sun](https://github.com/L-Sun), a versatilist, like to 💻**code**, make
     <cite>日々私たちが過ごしている日常は、実は奇跡の連続なのかもしれない。</cite>
 </p>
 <p align="center">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FL-Sun%2FL-Sun.svg&style=flat-square&label=visitor&color=green">
+    ![](https://komarev.com/ghpvc/?username=L-Sun)
 </p>
 
