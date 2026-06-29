@@ -10,7 +10,7 @@ I'm [L-Sun](https://github.com/L-Sun), a versatilist, like to 💻**code**, make
 - 📚 Graduated from Lanzhou University and Shenzhen University with a master's degree in Computer Graphics.
 - ❤️ Love type soundness code.
 - 🤗 Embrace the spirit of open source.
-- 🆙 With 3 years' development working experience.
+- 🆙 With 5 years' development working experience.
 
 <div style="clear: both;" />
 
